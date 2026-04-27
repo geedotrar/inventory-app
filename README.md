@@ -4,7 +4,6 @@
 ## Requirement
 
 - PHP 8.3+
-- Node.js 20.19+ atau 22.12+
 - Composer
 
 ## How to Run
@@ -27,8 +26,16 @@
    php artisan serve
    ```
 
-## Testing
+## Simple Unit Testing
 
 ```bash
 php artisan test
 ```
+<img width="950" height="254" alt="image" src="https://github.com/user-attachments/assets/4771046e-1e5b-4060-8b79-fd386a56e182" />
+
+## Video Demo
+
+https://github.com/user-attachments/assets/f6f93654-ae58-4eb4-9db6-245669325d28
+
+
+
