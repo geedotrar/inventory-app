@@ -1,5 +1,16 @@
-
 # inventory-app
+
+## Tech Stack
+- PHP 8.3+
+- Laravel 13
+- Livewire 4.2
+- Tailwind CSS
+- PostgreSQL
+- Pest
+  
+## Diagram Systems
+<img width="705" height="282" alt="Diagram Tanpa Judul drawio (1)" src="https://github.com/user-attachments/assets/3dc50faa-61d3-4031-afe9-59d9ddc75068" />
+
 
 ## Requirement
 
